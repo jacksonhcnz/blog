@@ -2,3 +2,5 @@ theme: minima
 title: Blog
 author: JHC
 description: Making and playing
+url: 'https://jacksonhcnz.github.io/' # your main domain
+baseurl: 'blog/' # if you're using custom domain keep this blank example
