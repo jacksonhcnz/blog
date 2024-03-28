@@ -16,13 +16,24 @@ https://www.aliexpress.com/item/1005006255961111.html
 Key Switches
 https://www.aliexpress.com/item/32965950790.html
 
-Printed on Ender 3 V2 Neo
+Printed parts are printed in rPLA from 
+<a href="https://www.kiwifil.shop/">KiwiFil</a>
+KiwiFil on an Ender 3 V2 Neo
 
-First full print came out well
+right hand print came out well.
 <img src="{{site.baseurl | prepend: site.url}}assets/IMG_4391.jpg" alt="Right hand key mesh printed." />
 
-Second key mesh was not so great
+Print for the lefthand was not so great.
 <img src="{{site.baseurl | prepend: site.url}}assets/IMG_4488.JPG" alt="Left hand key mesh print failed." />
 
-Right hand mesh with switches fitted.
-<img src="{{site.baseurl | prepend: site.url}}assets/IMG_4391.jpg" alt="Right hand key mesh with switches fitted." />
+Right hand with switches fitted.
+<img src="{{site.baseurl | prepend: site.url}}assets/IMG_4489.JPG" alt="Right hand key mesh with switches fitted." />
+
+I have ordered the left hand from PCBWay as a reason print to see what thats like.
+
+Still to go
+-Printing base plates.
+-Wiring up switches.
+-Purchasing micro controllers.
+-Purchasing TRRS jacks and cable.
+-Installing key switches.
