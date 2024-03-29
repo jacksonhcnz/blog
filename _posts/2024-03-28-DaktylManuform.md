@@ -5,6 +5,7 @@ date: 2024-03-28
 
 I'm keen to try out more ergonomic keyboards. In the past ive used standard 102's and TKL's. I have tried the ZSA Moonlander which was alright. Going to build a Daktyl Manuform. going with a 6x6 for the F-row.
 
+**Item List**
 using these STL's
 STLs - https://github.com/abstracthat/dactyl-manuform
 6x6
@@ -31,7 +32,7 @@ Right hand with switches fitted.
 
 I have ordered the left hand from PCBWay as a reason print to see what thats like.
 
-Still to go
+**Still to go**
 - Printing base plates.
 - Wiring up switches.
 - Purchasing micro controllers.
@@ -39,4 +40,4 @@ Still to go
 - Installing key switches.
 
 ---
-v1.1
+v1.2
