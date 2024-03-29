@@ -3,19 +3,37 @@ title: "Daktyl Manuform"
 date: 2024-03-28
 ---
 
+***Project Name**
+Build Daktyl Manuform
+
+**Objective**
+Use a ergo split keyboard for daily use.
+
+**Background**
 I'm keen to try out more ergonomic keyboards. In the past ive used standard 102's and TKL's. I have tried the ZSA Moonlander which was alright. Going to build a Daktyl Manuform. going with a 6x6 for the F-row.
 
 **Item List**
-using these STL's
-STLs - https://github.com/abstracthat/dactyl-manuform
-6x6
-Baseplates - https://www.thingiverse.com/thing:3688591
+- Using these STL's
+    - Key Mesh - https://github.com/abstracthat/dactyl-manuform
+    - Baseplates - https://www.thingiverse.com/thing:3688591
+- Switches Cherry MX Reds https://www.aliexpress.com/item/1005006255961111.html
+- Key Switches https://www.aliexpress.com/item/32965950790.html
 
-Switches Cherry MX Reds
-https://www.aliexpress.com/item/1005006255961111.html
+**Tasks**
+- [x] Print Right Hand.
+- [x] ~Print Left Hand~ Order Left hand.
+- [x] Order switches.
+- [x] Order key kaps.
+- [ ] Order diodes.
+- [ ] Print base plates.
+- [ ] Wire up switches.
+- [ ] Purchase micro controllers.
+- [ ] Purchase TRRS jacks and cable.
+- [ ] Install key switches.
 
-Key Switches
-https://www.aliexpress.com/item/32965950790.html
+**Updates**
+
+###2024-03-28
 
 Printed parts are printed in rPLA from 
 <a href="https://www.kiwifil.shop/">KiwiFil</a>
@@ -32,12 +50,5 @@ Right hand with switches fitted.
 
 I have ordered the left hand from PCBWay as a reason print to see what thats like.
 
-**Still to go**
-- [] Printing base plates.
-- [] Wiring up switches.
-- [] Purchasing micro controllers.
-- [] Purchasing TRRS jacks and cable.
-- [] Installing key switches.
-
 ---
-v1.3
+v1.5
