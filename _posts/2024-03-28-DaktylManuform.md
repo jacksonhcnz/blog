@@ -32,8 +32,8 @@ Right hand with switches fitted.
 I have ordered the left hand from PCBWay as a reason print to see what thats like.
 
 Still to go
--Printing base plates.
--Wiring up switches.
--Purchasing micro controllers.
--Purchasing TRRS jacks and cable.
--Installing key switches.
+- Printing base plates.
+- Wiring up switches.
+- Purchasing micro controllers.
+- Purchasing TRRS jacks and cable.
+- Installing key switches.
