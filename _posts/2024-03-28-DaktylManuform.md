@@ -37,3 +37,6 @@ Still to go
 - Purchasing micro controllers.
 - Purchasing TRRS jacks and cable.
 - Installing key switches.
+
+---
+v1.1
