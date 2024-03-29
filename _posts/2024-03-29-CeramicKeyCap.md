@@ -34,13 +34,13 @@ I heard about ceramic keycaps online and the sounded cool. a family member does 
 
 **Updates**
 
-Date
-description
-Image
+2024-03-29
+designed and printed three part mould. and completed a test pressing.
+
+<img src="{{site.baseurl | prepend: site.url}}assets/IMG_4490.JPG" alt="Three part mould." />
+<img src="{{site.baseurl | prepend: site.url}}assets/IMG_4490-COLLAGE.jpg" alt="Assembled mould and test key." />
 
 
-
-https://www.markdownguide.org/tools/jekyll/
 
 ---
 v1

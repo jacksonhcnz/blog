@@ -21,7 +21,7 @@ I'm keen to try out more ergonomic keyboards. In the past ive used standard 102'
 
 # **Tasks**
 - [x] Print Right Hand.
-- [x] ~Print Left Hand~ Order Left hand.
+- [x] ~~Print Left Hand~~ Order Left hand.
 - [x] Order switches.
 - [x] Order keycaps.
 - [ ] Order diodes.
@@ -51,4 +51,4 @@ Right hand with switches fitted.
 I have ordered the left hand from PCBWay as a resin print to see what thats like.
 
 ---
-v1.9
+v2.0
