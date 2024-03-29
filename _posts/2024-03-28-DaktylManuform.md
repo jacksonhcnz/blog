@@ -3,10 +3,10 @@ title: "Daktyl Manuform"
 date: 2024-03-28
 ---
 
-# **Project Name**
+# Project Name
 Build Daktyl Manuform
 
-# **Objective**
+# Objective
 Use a ergo split keyboard for daily use.
 
 # **Background**
@@ -23,7 +23,7 @@ I'm keen to try out more ergonomic keyboards. In the past ive used standard 102'
 - [x] Print Right Hand.
 - [x] ~Print Left Hand~ Order Left hand.
 - [x] Order switches.
-- [x] Order key kaps.
+- [x] Order keycaps.
 - [ ] Order diodes.
 - [ ] Print base plates.
 - [ ] Wire up switches.
@@ -48,7 +48,7 @@ Print for the lefthand was not so great.
 Right hand with switches fitted.
 <img src="{{site.baseurl | prepend: site.url}}assets/IMG_4489.JPG" alt="Right hand key mesh with switches fitted." />
 
-I have ordered the left hand from PCBWay as a reason print to see what thats like.
+I have ordered the left hand from PCBWay as a resin print to see what thats like.
 
 ---
-v1.6
+v1.9
