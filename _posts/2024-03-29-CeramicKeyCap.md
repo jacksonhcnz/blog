@@ -3,16 +3,16 @@ title: "Ceramic Keycaps"
 date: 2024-03-29
 ---
 
-**Project Name**
+# Project Name
 Ceramic keycaps.
 
-**Objective**
+# Objective
 Make a set of ceramic keycaps.
 
-**Background**
+# Background
 I heard about ceramic keycaps online and the sounded cool. a family member does pottery so i thought it might be something we could work on together.
 
-**Task List**
+# Task List
 - [x] Design single key mould.
 - [x] test single key mould.
 - [ ] bisque fire key.
@@ -22,19 +22,19 @@ I heard about ceramic keycaps online and the sounded cool. a family member does 
 - [ ] design multi key mould.
 - [ ] use multi key mould.
 
-**Gear List**
+# Gear List
 - 3d Printer - ender 3 v2 neo
 - all the pottery stuff - unknown
 
-**Consumables**
+# Consumables
 - Filiment for mould - rPLA from <a href="https://www.kiwifil.shop/">KiwiFil</a>
 - Clay
 - Other Clay related stuff
 - Glue 
 
-**Updates**
+# Updates
 
-2024-03-29
+## 2024-03-29
 designed and printed three part mould. and completed a test pressing.
 
 <img src="{{site.baseurl | prepend: site.url}}assets/IMG_4490.JPG" alt="Three part mould." />
@@ -43,4 +43,4 @@ designed and printed three part mould. and completed a test pressing.
 
 
 ---
-v1
+v1.2
