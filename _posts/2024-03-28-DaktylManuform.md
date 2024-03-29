@@ -9,17 +9,17 @@ Build Daktyl Manuform
 # Objective
 Use a ergo split keyboard for daily use.
 
-# **Background**
+# Background
 I'm keen to try out more ergonomic keyboards. In the past ive used standard 102's and TKL's. I have tried the ZSA Moonlander which was alright. Going to build a Daktyl Manuform. going with a 6x6 for the F-row.
 
-# **Item List**
+# Item List
 - Using these STL's
     - Key Mesh - https://github.com/abstracthat/dactyl-manuform
     - Baseplates - https://www.thingiverse.com/thing:3688591
 - Switches Cherry MX Reds https://www.aliexpress.com/item/1005006255961111.html
 - Key Switches https://www.aliexpress.com/item/32965950790.html
 
-# **Tasks**
+# Tasks
 - [x] Print Right Hand.
 - [x] ~~Print Left Hand~~ Order Left hand.
 - [x] Order switches.
@@ -31,7 +31,7 @@ I'm keen to try out more ergonomic keyboards. In the past ive used standard 102'
 - [ ] Purchase TRRS jacks and cable.
 - [ ] Install key switches.
 
-# **Updates**
+# Updates
 
 ## 2024-03-28
 
@@ -51,4 +51,4 @@ Right hand with switches fitted.
 I have ordered the left hand from PCBWay as a resin print to see what thats like.
 
 ---
-v2.0
+v2.1
