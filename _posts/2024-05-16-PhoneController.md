@@ -7,7 +7,7 @@ date: 2024-05-16
 Phone Controller
 
 # Objective
-Make a virtcal grip controller for my phoen in a landscape orentation for pokemmo
+Make a virtcal grip controller for my phone in a landscape orentation for pokemmo
 
 # Background
 Just started playing Pokemmo. Its been a lot of fun. I would like to have more of a gameboy feel though.
@@ -37,6 +37,6 @@ Image <img src="{{site.baseurl | prepend: site.url}}assets\Screenshot 2024-05-15
 
 
 ---
-v1
+v2
 
 
