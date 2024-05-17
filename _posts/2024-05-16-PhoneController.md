@@ -29,7 +29,7 @@ Filiment for mould - rPLA from <a href="https://www.kiwifil.shop/">KiwiFil</a>
 
 ## 2024-05-16
 Sketch of design
-Image <img src="{{site.baseurl | prepend: site.url}}assets\IMG_5223.JPG" alt="Scetch of design." />
+Image <img src="{{site.baseurl | prepend: site.url}}assets\IMG_5223.JPG" alt="Sketch of design." />
 
 3d mockup of design
 Image <img src="{{site.baseurl | prepend: site.url}}assets\Screenshot 2024-05-15 151038.jpg" alt="3d mockup of design." />
