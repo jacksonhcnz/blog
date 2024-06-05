@@ -5,6 +5,7 @@ date: 2024-05-06
 
 # Project Name
 
+Create the road
 1. https://www.google.com/maps/d/
 2. Create new map
 3. Draw a line
@@ -15,7 +16,12 @@ date: 2024-05-06
 8. select export as KML...
 9. click download
 
+race track builder
+1o. open race track builder
+11. 
 
+
+setting up google apis
 
 
 # Objective
