@@ -1,0 +1,49 @@
+
+---
+title: "Game Console"
+date: 2025-04-24
+---
+
+I want to build a game console that you insert a game card into and it will launch that game.
+It should only allow for the game of the game card to be played. 
+It should not allow anyhting else to be played or other actions to take place
+There should be way to get to termanal
+
+I think this could be done with a kiosk app that reads a barcode to launch a game.
+
+
+
+
+
+# Objective
+
+# Background
+
+# Task List
+- [ ] build prototype hardware
+- [ ] design enclouser
+- [ ] build applition
+- [ ] create game cards
+- [ ] create root card
+
+# Gear List
+- Rasperry PI
+- Pi Camera module
+
+# Consumables
+3x item name - link to item
+3x item name - link to item
+3x item name - link to item
+
+# Updates
+
+## Date
+description
+Image <img src="{{site.baseurl | prepend: site.url}}assets/test.jpg" alt="test." />
+
+
+
+https://www.markdownguide.org/tools/jekyll/
+
+---
+v1
