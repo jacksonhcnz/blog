@@ -24,14 +24,19 @@ I'm keen to try out more ergonomic keyboards. In the past ive used standard 102'
 - [x] ~~Print Left Hand~~ Order Left hand.
 - [x] Order switches.
 - [x] Order keycaps.
-- [ ] Order diodes.
-- [ ] Print base plates.
-- [ ] Wire up switches.
-- [ ] Purchase micro controllers.
-- [ ] Purchase TRRS jacks and cable.
-- [ ] Install key switches.
+- [x] Order diodes.
+- [x] Print base plates.
+- [x] Wire up switches.
+- [x] Purchase micro controllers.
+- [x] Purchase TRRS jacks and cable.
+- [x] Install key switches.
 
 # Updates
+
+## 2025-04-24
+I have assembled the keyboard and flashed the firmware. on the right side i got the diodes around the wrong way to had to account for that in the firmware.
+Next time I build a keyboard I think ill get some bare copper hookup wire, presison side cutters, and locking precision  pliers.
+Still need to get bases and hotglue the plugs inot place.
 
 ## 2024-03-28
 
@@ -51,4 +56,4 @@ Right hand with switches fitted.
 I have ordered the left hand from PCBWay as a resin print to see what thats like.
 
 ---
-v2.1
+v3
